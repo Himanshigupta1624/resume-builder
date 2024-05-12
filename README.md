@@ -30,7 +30,7 @@ python manage.py migrate
 ```bash
 python manage.py runserver
 ```
-8. Access the application at [http://localhost:8000](http://localhost:8000).
+5. Access the application at [http://localhost:8000](http://localhost:8000).
 
 
 
